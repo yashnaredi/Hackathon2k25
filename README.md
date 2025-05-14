@@ -1,4 +1,4 @@
-# 🌐 GenesisHub
+# 🌐 Genesys-HUB
 
 **Accelerating Onboarding and Delivery for Genesys Professional Services Consultants**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**GenesisHub** is a centralized knowledge and code hub designed to help Genesys Professional Services Consultants ramp up faster and deliver consistent, high-quality solutions across the Digital and AI Suite. By consolidating training materials, reusable code, and guided exercises into a single platform, GenesisHub empowers consultants to scale their impact from day one.
+**Genesys-HUB** is a centralized knowledge and code hub designed to help Genesys Professional Services Consultants ramp up faster and deliver consistent, high-quality solutions across the Digital and AI Suite. By consolidating training materials, reusable code, and guided exercises into a single platform, GenesisHub empowers consultants to scale their impact from day one.
 
 ---
 
